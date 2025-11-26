@@ -18,7 +18,7 @@
 
 > **CIKM 2025 Analytic Cup Workshop**
 >
-> 2025年10月受邀前往 **韩国首尔 (Seoul)**，作为第十届信也科技杯全球AI算法大赛的优胜队伍代表（Global Rank 4），在 CIKM Workshop 现场进行了**口头汇报 (Oral Presentation)**。
+> 2025年11月受邀前往 **韩国首尔 (Seoul)**，作为第十届信也科技杯全球AI算法大赛的优胜队伍代表（Global Rank 4），在 CIKM Workshop 现场进行了**口头汇报 (Oral Presentation)**。
 
 ---
 
