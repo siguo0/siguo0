@@ -18,7 +18,7 @@
 
 > **CIKM 2025 Analytic Cup Workshop**
 >
-> Invited to **Seoul, South Korea** in Oct 2025 as a representative of the winning team (Global Rank 4) to give an **oral presentation** at the CIKM Workshop.
+> Invited to **Seoul, South Korea** in Nov 2025 as a representative of the winning team (Global Rank 4) to give an **oral presentation** at the CIKM Workshop.
 
 ---
 
