@@ -34,7 +34,7 @@
 | **2025** | `Audio` | **iFLYTEK AI Developer Competition**<br>Speech Quality Restoration | **2nd Runner-up** 🥉 | **3rd Place** |
 | **2025** | `CV` | **10th Xinye Tech Global AI Algo Competition**<br>Visual Deepfake Detection | **Bronze** 🥉 | **4 / 426** (Top 1%) |
 | **2023** | `ML` | **Kaggle** ICR - Age-Related Conditions | **Gold Medal** 🥇 | **3 / 6430** (Top 0.05%) |
-| **2022** | `ML` | **Kaggle** GoDaddy - Microbusiness Forecasting | **Silver Medal** 🥈 | **Top 8%** (298 / 3547) |
+| **2022** | `ML` | **Kaggle** GoDaddy - Microbusiness Forecasting | **Bronze Medal** 🥉 | **Top 8%** (298 / 3547) |
 | **2022** | `TSA` | **Alibaba Cloud** Imagine Computing Contest | **Finalist** | **7 / 3493** (Top 0.2%) |
 | **2021** | `CV` | **Kaggle** Shopee - Price Match Guarantee | **Silver Medal** 🥈 | **Top 4%** (95 / 2426) |
 | **2021** | `NLP` | **Kaggle** CommonLit Readability Prize | **Silver Medal** 🥈 | **Top 3%** (96 / 3633) |
