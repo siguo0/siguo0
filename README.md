@@ -32,9 +32,9 @@
 | **2025** | `CV` | **2025 科大讯飞AI开发者大赛**<br>草莓老叶识别挑战赛 | **亚军** 🥈 | **Rank 2** (Solo) |
 | **2025** | `Audio` | **2025 科大讯飞AI开发者大赛**<br>自动音频标记挑战赛 | **季军** 🥉 | **Rank 3** (Solo) |
 | **2025** | `Audio` | **2025 科大讯飞AI开发者大赛**<br>语音质量修复挑战赛 | **季军** 🥉 | **Rank 3** (Solo) |
-| **2025** | `CV` | **第十届信也科技杯全球AI算法大赛**<br>视觉深度鉴伪识别 | **铜奖** 🥉 | **4 / 426** (Top 1%, solo) |
-| **2023** | `ML` | **Kaggle** ICR - Age-Related Conditions<br>(年龄相关疾病识别) | **金牌** 🥇 | **3 / 6430** (Top 0.05%, solo) |
-| **2022** | `ML` | **Kaggle** GoDaddy - Microbusiness Forecasting | **铜牌** 🥉 | **Top 8%** (298 / 3547, solo) |
+| **2025** | `CV` | **第十届信也科技杯全球AI算法大赛**<br>视觉深度鉴伪识别 | **铜奖** 🥉 | **4 / 426** (Top 1%, Solo) |
+| **2023** | `ML` | **Kaggle** ICR - Age-Related Conditions<br>(年龄相关疾病识别) | **金牌** 🥇 | **3 / 6430** (Top 0.05%, Solo) |
+| **2022** | `ML` | **Kaggle** GoDaddy - Microbusiness Forecasting | **铜牌** 🥉 | **Top 8%** (298 / 3547, Solo) |
 | **2022** | `TSA` | **阿里云** Imagine Computing 边缘云内容分发预测 | **优胜奖** | **7 / 3493** (Top 0.2%) |
 | **2021** | `CV` | **Kaggle** Shopee - Price Match Guarantee | **银牌** 🥈 | **Top 4%** (95 / 2426) |
 | **2021** | `NLP` | **Kaggle** CommonLit Readability Prize | **银牌** 🥈 | **Top 3%** (96 / 3633) |
